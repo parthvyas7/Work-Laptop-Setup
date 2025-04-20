@@ -1,16 +1,33 @@
 # Linux System Work Setup 
-- Run `./replace-configs.sh`
+
+A collection of configuration files and scripts to quickly set up a Linux development environment. This repository includes:
+
+- Shell configuration files (.bashrc, .bash_aliases)
+- Vim configuration (.vimrc)
+- Automated setup script
+- Curated list of recommended:
+  - System applications
+  - CLI tools
+  - Chrome extensions
+
+# Quick Start
+
+```sh
+./replace-configs.sh
+```
+This script will replace your current configuration files with the ones in this repository. It will also install the necessary dependencies and set up the environment.
+Make sure to back up your existing configuration files before running the script.
  
-# Install these apps
+# System Applications
 - Auto dark mode / Auto Darkmode Switcher (Github)
 - Dynamic theme / Linux Dynamic Wallpapers (Github)
 - Auto-cpufreq
 
-# And these CLI tools
+# CLI Tools
 - lsd (GitHub)
 - ble.sh (GitHub)
 
-# And these Chrome browser extensions
+# Chrome Browser Extensions
 - Adblock for YouTube™
 - Dark Reader
 - Enhancer for YouTube™
